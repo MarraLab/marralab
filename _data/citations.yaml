@@ -1,5 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40038436
+  title: Whole-genome analysis of an aggressive metastatic pancreatic solid pseudopapillary
+    neoplasm.
+  authors:
+  - Phoebe T M Cheng
+  - James T Topham
+  - Ayman Aldeheshi
+  - Gregory A Taylor
+  - Erin Pleasance
+  - Melissa K McConechy
+  - Jessica M T Nelson
+  - David F Schaeffer
+  - Steven J M Jones
+  - Marco A Marra
+  - Janessa Laskin
+  - Daniel J Renouf
+  publisher: NPJ precision oncology
+  date: '2025-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40038436
+  term: Marco A Marra[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39982959
+  title: Caspase 3 and caspase 7 promote cytoprotective autophagy and the DNA damage
+    response during non-lethal stress conditions in human breast cancer cells.
+  authors:
+  - Gayathri Samarasekera
+  - Nancy E Go
+  - Courtney Choutka
+  - Jing Xu
+  - Yuka Takemon
+  - Jennifer Chan
+  - Michelle Chan
+  - Shivani Perera
+  - Samuel Aparicio
+  - Gregg B Morin
+  - Marco A Marra
+  - Suganthi Chittaranjan
+  - Sharon M Gorski
+  publisher: PLoS biology
+  date: '2025-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39982959
+  term: Marco A Marra[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39687742
   title: Adaptable and comprehensive approaches for long-read nanopore sequencing
     of polyadenylated and non-polyadenylated RNAs.
@@ -59,7 +104,7 @@
   - Janet S Rader
   - Marco A Marra
   publisher: Genome research
-  date: '2024-12-05'
+  date: '2025-03-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39638560
   term: Marco A Marra[Author]
   plugin: pubmed.py
@@ -136,7 +181,7 @@
   - Janessa Laskin
   - Steven J M Jones
   publisher: Cell genomics
-  date: '2024-10-10'
+  date: '2024-10-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39406235
   term: Marco A Marra[Author]
   plugin: pubmed.py
@@ -256,7 +301,7 @@
   - David W Scott
   - Aly Karsan
   publisher: Journal of clinical pathology
-  date: '2024-01-05'
+  date: '2025-02-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38182402
   term: Marco A Marra[Author]
   plugin: pubmed.py
@@ -14171,28 +14216,28 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijms24065869
-  title: 'Immune Activation following Irbesartan Treatment in a Colorectal Cancer
+  title: 'Immune Activation Following Irbesartan Treatment in a Colorectal Cancer
     Patient: A Case Study'
   authors:
   - E. Titmuss
   - K. Milne
-  - M. R. Jones
+  - M. Jones
   - T. Ng
-  - J. T. Topham
-  - S. D. Brown
-  - D. F. Schaeffer
+  - J. Topham
+  - S. Brown
+  - D. Schaeffer
   - S. Kalloger
   - D. Wilson
-  - R. D. Corbett
-  - L. M. Williamson
+  - R. Corbett
+  - L. Williamson
   - K. Mungall
-  - A. J. Mungall
-  - R. A. Holt
-  - B. H. Nelson
-  - S. J. M. Jones
+  - A. Mungall
+  - R. Holt
+  - B. Nelson
+  - S. Jones
   - J. Laskin
-  - H. J. Lim
-  - M. A. Marra
+  - H. Lim
+  - M. Marra
   publisher: International Journal of Molecular Sciences
   date: '2023-03-20'
   link: https://doi.org/gtf2c2
@@ -26529,9 +26574,6 @@
   - Michael S. Lawrence
   - Houtan Noushmehr
   - Tathiane M. Malta
-  - Joshua M. Stuart
-  - Christopher C. Benz
-  - Peter W. Laird
   - Samantha J. Caesar-Johnson
   - John A. Demchok
   - Ina Felau
@@ -27257,6 +27299,9 @@
   - Jung Il Lee
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
+  - Joshua M. Stuart
+  - Christopher C. Benz
+  - Peter W. Laird
   publisher: Cell
   date: '2018-04-01'
   link: https://doi.org/gc7r87
@@ -44076,7 +44121,7 @@
   - Xiaotu Ma
   - Yu Liu
   - Yanling Liu
-  - Jaime M Guidry Auvil
+  - Jaime M. Guidry Auvil
   - Tanja M Davidsen
   - Patee Gesuwan
   - Leandro C Hermida
@@ -47006,7 +47051,7 @@
   - Amy E Armstrong
   - Daniela S Gerhard
   - Malcolm A Smith
-  - Jaime M Guidry Auvil
+  - Jaime M. Guidry Auvil
   - Daoud Meerzaman
   - Qing-Rong Chen
   - Chih Hao Hsu
